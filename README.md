@@ -1,0 +1,5 @@
+- 👋 Oi, eu sou Thiago Sampaio Pereira.
+- 👀 Estou interessado em progamação.
+- 🌱 Estou cursndo o Alura.
+- 💞️ Procuro aprender o maximo com alura.
+- ⚡ Fato interessante: antes não conhecia o Alura e agora fico imprecionado de como é essa incrivel plataforma que aprendo muito.
